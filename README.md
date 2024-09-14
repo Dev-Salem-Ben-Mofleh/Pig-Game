@@ -1,4 +1,4 @@
-# Big-Game
+# Pig-Game
 
 ## I worked specially on the **JavaScript** while the **HTML** and **CSS** were provided by jonas
 
