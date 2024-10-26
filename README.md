@@ -32,7 +32,7 @@ To run this game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HananeAitBenYachou/Dice-Roller.git
+   git clone https://github.com/Dev-Salem-Ben-Mofleh/Pig-Game.git
    ```
 
 2. Navigate to the project directory:
